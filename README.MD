@@ -1,6 +1,7 @@
 # Scrabble Score Calculator
 
 Problem: Given a word, compute the scrabble score for that word.
+
 | LETTERS                      | Values |
 |------------------------------|--------|
 | A, E, I, O, U, L, N, R, S, T | 1      |
@@ -43,4 +44,4 @@ A run on a word with 20 characters is completed in under `0.001s`.
 
 I think this solution is great!
 
-**Shalom!**
+_Shalom!_
