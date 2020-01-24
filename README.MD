@@ -16,9 +16,24 @@ The solution in here:
 Provides a function which returns the value of a character. This function uses a
 switch statement as against a loop to reduce the complexity of the solution.
 
-Then, there is a function that recieves the word as arguments, loops through
+Then, there is a function that receives the word as arguments, loops through
 each character in the word and use the value for the character to add to an
 existing available total calculated so far.
+
+### How To Run
+
+The code was written with JavaScript and is expected to run in a NodeJs
+environment. So, it is advised to run node before proceeding.
+
+If node is installed, run this in the root folder where this code exists:
+
+`node index.js WhatTIsasdfasdfasdf`
+
+It is expected to output:
+
+> The score for the word "WhatTIsasdfasdfasdf" is 37, process took: 0.002s
+
+Awesome!
 
 ### Is this a perfect solution?
 
